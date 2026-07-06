@@ -19,3 +19,69 @@ git push -u origin main
 git branch -M main
 git push -u origin main
 git config --global user.email "subhajitc245@gmail.com"
+
+
+
+-------------*************--------------------
+---------------------**************------------
+Seeing the folder structure in Screenshot 2026-07-06 011820.png makes the problem very clear.
+
+The validation error happened because your App.js and app.json are hidden inside your src folder. Expo Snack requires App.js and package.json to be at the absolute root level (the very top) of your project folder to understand how to build it.
+
+Since your structure is clean and compact, you can set this up manually in your Snack link (snack.expo.dev/@aisssubhao2026/658c8b) in less than 5 minutes.
+
+Step-by-Step Configuration for Your Snack
+1. Recreate Your Project Tree
+In the Snack sidebar, use the folder and file icons to structure it exactly like this:
+
+📁 assets
+
+📁 src
+
+📁 app
+
+📄 store.js
+
+📁 components
+
+📄 UserCard.js
+
+📁 features
+
+📁 users
+
+📄 userSlice.js
+
+📁 screens
+
+📄 UserListScreen.js
+
+📄 App.js (Keep this at the root level, NOT inside src!)
+
+📄 package.json (Keep this at the root level!)
+
+2. Copy and Paste Your Code
+Open your VS Code from Screenshot 2026-07-06 011820.png and copy-paste the contents file-by-file into the Snack interface:
+
+Paste your store.js, UserCard.js, userSlice.js, and UserListScreen.js code into their corresponding files.
+
+Open your local src/App.js, copy everything, and paste it directly into the root App.js file of your Expo Snack.
+
+⚠️ Important Fix for Import Paths: Since you are moving App.js up one level to the root directory, look at your import statements inside App.js. If you were importing files like ./components/...,
+ change them to ./src/components/... so Snack knows where to look.
+
+3. Update the Snack package.json Dependencies
+Click on the root package.json inside your Snack and make sure your dependencies include Redux and Navigation to support your slice logic and list view:
+
+JSON
+{
+  "dependencies": {
+    "react-native-paper": "*",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@reduxjs/toolkit": "^2.11.1",
+    "react-redux": "^9.2.0",
+    "axios": "^0.30.2"
+  }
+}
+Once you finish pasting these files, the iOS and Android web simulators on the right side of the screen will refresh automatically. Click "Tap to Play" on either device to watch your UserListScreen boot up live!
