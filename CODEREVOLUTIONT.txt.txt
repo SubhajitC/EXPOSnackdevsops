@@ -1,0 +1,254 @@
+তুমি যদি React Hooks ১–২ মিনিটে খুব সহজে বুঝতে চাও, তাহলে এগুলো সবচেয়ে ভালো:
+
+🎥 1. Fireship – React Hooks in 100 Seconds (Best)
+
+⏱️ ১ মিনিট ৪০ সেকেন্ড
+
+▶️ https://www.youtube.com/results?search_query=React+Hooks+in+100+Seconds+Fireship
+
+কেন ভালো?
+
+খুব দ্রুত
+Animation দিয়ে explain করে
+Beginner-friendly
+🎥 2. Web Dev Simplified – useEffect in 100 Seconds
+
+⏱️ প্রায় ২ মিনিট
+
+▶️ https://www.youtube.com/results?search_query=Web+Dev+Simplified+useEffect+100+seconds
+
+🎥 3. Codevolution React Hooks Playlist (Short Videos)
+
+▶️ https://www.youtube.com/results?search_query=Codevolution+React+Hooks+Playlist
+
+প্রতি Hook ৫–১০ মিনিটে Practical Example।
+
+আরও সহজ Flow Chart (Interview Ready)
+Need to store data?
+        │
+        ▼
+   useState
+        │
+        ▼
+Need API / Side Effect?
+        │
+        ▼
+   useEffect
+        │
+        ▼
+Need Parent Data?
+        │
+        ▼
+   useContext
+        │
+        ▼
+Need DOM Access?
+        │
+        ▼
+    useRef
+        │
+        ▼
+Function Re-render Stop?
+        │
+        ▼
+  useCallback
+        │
+        ▼
+Heavy Calculation?
+        │
+        ▼
+   useMemo
+        │
+        ▼
+Complex State?
+        │
+        ▼
+  useReducer
+30-Second Practical Memory Trick
+Situation	Hook
+Counter	useState
+API Call	useEffect
+Theme / Login User	useContext
+Focus Input	useRef
+Pass Function to Child	useCallback
+Filter Large Data	useMemo
+Todo / Cart Complex Logic	useReducer
+Interview Shortcut (এক লাইনে মনে রাখো)
+
+State → Effect → Context → Ref → Callback → Memo → Reducer
+
+এটাই React Hooks-এর সবচেয়ে common order।
+
+চাইলে আমি React Hooks-এর পুরো Cheat Sheet (১ পেজ PDF + Flow Chart + Practical Examples) বাংলায় বানিয়ে দিতে পারি, যা ১০ মিনিটে পুরো Hooks revise করার জন্য খুব কাজে লাগবে।
+
+
+
+
+---------------*****--------------------
+React Native-এর জন্য ১–২ মিনিটের practical + visual ভিডিও চাইলে এগুলো সেরা:
+
+🎥 1. Fireship – React Native in 100 Seconds ⭐ (সবচেয়ে Recommended)
+
+⏱️ ১ মিনিট ৫৫ সেকেন্ড
+
+▶️ https://www.youtube.com/results?search_query=React+Native+in+100+Seconds+Fireship
+
+শিখবে:
+
+React Native কী
+Components
+Styling
+Navigation
+Native Apps কীভাবে কাজ করে
+🎥 2. Expo in 100 Seconds
+
+⏱️ ১ মিনিট ৩০ সেকেন্ড
+
+▶️ https://www.youtube.com/results?search_query=Expo+in+100+Seconds+Fireship
+
+শিখবে:
+
+Expo কী
+কেন React Native-এ ব্যবহার করা হয়
+🎥 3. React Native Crash Course (১০–১৫ মিনিট, Practical)
+
+▶️ https://www.youtube.com/results?search_query=React+Native+Crash+Course+Traversy+Media
+
+🚀 React Native Practical Flow Chart
+Start
+  │
+  ▼
+Create App
+npx create-expo-app MyApp
+  │
+  ▼
+App.js
+  │
+  ▼
+UI Components
+(View, Text, Image, Button)
+  │
+  ▼
+State
+(useState)
+  │
+  ▼
+API Call
+(useEffect + fetch/axios)
+  │
+  ▼
+Navigation
+(Stack / Bottom Tabs)
+  │
+  ▼
+Input
+(TextInput)
+  │
+  ▼
+List
+(FlatList)
+  │
+  ▼
+Storage
+(AsyncStorage)
+  │
+  ▼
+Build APK / AAB
+📱 React Native Components Cheat Flow
+Screen
+ │
+ ├── View
+ │     ├── Text
+ │     ├── Image
+ │     ├── Button
+ │     ├── TextInput
+ │     ├── ScrollView
+ │     └── FlatList
+ │
+ ├── useState
+ ├── useEffect
+ ├── Navigation
+ ├── API
+ └── AsyncStorage
+🧠 30-Second Interview Memory Trick
+UI
+ ↓
+State
+ ↓
+API
+ ↓
+Navigation
+ ↓
+Storage
+ ↓
+Deploy
+
+অথবা আরও সংক্ষেপে:
+
+View → Text → State → Effect → API → FlatList → Navigation → AsyncStorage
+
+এটাই React Native-এর ৮০% প্রজেক্টে সবচেয়ে বেশি ব্যবহার হয়।
+
+যদি React Native Interview Flow Chart (১ পেজ, A4 PDF) বা React Native Roadmap (Beginner → Advanced) চাও, সেটাও আমি সুন্দরভাবে তৈরি করে দিতে পারি।
+
+
+
+
+-------***********-------------
+------********-----------
+----------------*****************-------
+Yes. If you have permission to download a YouTube video (or it's your own content), here are some popular online websites:
+
+SaveFrom
+https://en.savefrom.net/
+Y2Mate
+https://www.y2mate.is/
+SSYouTube
+https://ssyoutube.com/
+SnapSave
+https://snapsave.io/
+How to use them
+Copy the YouTube video URL.
+Open one of the websites above.
+Paste the URL into the input box.
+Choose the video quality (e.g., 720p or 1080p).
+Click Download.
+Official and safest option
+
+If you just want to watch videos offline, YouTube Premium lets you download videos within the YouTube app for offline viewing. This is the official and most reliable method.
+
+Note: Downloading YouTube videos without permission may violate YouTube's Terms of Service, so make sure you have the right to download the content before using third-party
+ download sites.
+
+
+
+
+
+
+
+
+-------***********-------------
+------********-----------
+----------------*****************-------
+
+Yes. If you have permission to download a YouTube video (or it's your own content), here are some popular online websites:
+
+SaveFrom
+https://en.savefrom.net/
+Y2Mate
+https://www.y2mate.is/
+SSYouTube
+https://ssyoutube.com/
+SnapSave
+https://snapsave.io/
+How to use them
+Copy the YouTube video URL.
+Open one of the websites above.
+Paste the URL into the input box.
+Choose the video quality (e.g., 720p or 1080p).
+Click Download.
+Official and safest option
+
+If you just want to watch videos offline, YouTube Premium lets you download videos within the YouTube app for offline viewing. This is the official and most reliable method.
+
+Note: Downloading YouTube videos without permission may violate YouTube's Terms of Service, so make sure you have the right to download the content before using third-party download sites.

@@ -1,0 +1,259 @@
+https://www.resumly.ai/resume-roast
+
+
+
+----*****----
+-----****-----
+--------********------
+resume reviewers online
+resume evaluators
+
+currently i am using 
+https://www.resumly.ai/resume-roast
+
+which is best one so I can upload my resume share you response to modify my current resume
+
+00:22
+Here are the best free resume reviewers/roasters you can use:
+
+
+Searched the web
+Searched the web
+Here's a ranked list of the best ones to use — each serves a different purpose, so use 2-3 together for best results:
+
+🥇 Best for detailed AI roast-style feedback (like resumly.ai)
+ApplyBuddy — https://applybuddy.ai/free-ai-resume-review
+Gives a 0–100 score across content, ATS, and visual presentation. Rewrites weak bullets automatically. No signup needed, instant results.
+
+🥈 Best for ATS keyword gap analysis
+Resume Worded — https://resumeworded.com/score
+Scans your resume against a job description and tells you exactly which keywords are missing. Best tool if you're applying to a specific job — paste the job description and it matches you against it. 
+Enhancv
+
+🥉 Best for human-style readability + ATS together
+Enhancv Resume Checker — https://enhancv.com/resources/resume-checker
+Analyzes your resume like an ATS would — checking if it can parse your skills, experience, and sections — then also evaluates quantified achievements and content quality. Free and fast (under 3 minutes). 
+Monster
+
+🔖 Best for a real human review (free, takes 48 hrs)
+TopResume — https://topresume.com/resume-review
+Provides personalized feedback from a resume expert in less than 48 hours, including an ATS compatibility analysis. Actual human eyes, not just AI — great for a deeper critique. 
+Hiration
+
+My recommendation for your workflow:
+
+ApplyBuddy → instant AI roast + bullet rewrites
+Resume Worded → paste the exact job description you're targeting to find keyword gaps
+Copy the feedback → paste it here and I'll update your PDF immediately
+This 3-step loop will get your resume sharper with every application.
+
+
+
+
+-------------***************----------------
+-----------------------***************--------------
+Resumly.ai is actually not bad at all — it's good for what it does. Here's honest context:
+
+Resumly.ai strengths:
+
+Gives a detailed, conversational "roast" style critique (which you've already used well — you got 2 rounds of solid, specific feedback from it)
+Covers buzzwords, bullet quality, metrics, and ATS keywords together in one report
+Free, no signup, fast
+
+Where it's weaker vs the others:
+
+No job-description matching (Resume Worded does this better)
+No numeric ATS score out of 100 (ApplyBuddy gives a cleaner score)
+No human review option (TopResume wins there)
+
+
+Bottom line ranking for your use case (React Native / mobile dev roles):
+ToolBest ForFree?Resumly.ai (yours)Roast-style writing critique✅Resume WordedKeyword gap vs job description✅ApplyBuddyATS score + auto bullet rewrites✅EnhancvATS parse test✅TopResumeHuman expert eyes✅
+
+My suggestion: Keep using Resumly.ai — it gave you genuinely useful feedback both times. Just add Resume Worded on top of it — paste a specific job description there and it'll tell you exactly which keywords you're missing for that role. Then share the report here and I'll update your PDF.
+Those two together cover everything you need.
+
+
+
+-------------***************----------------
+-----------------------***************--------------
+📚 71 Python Projects That Can Take Your Portfolio to the Next Level!
+
+Learning Python is important, but building real projects is what helps you stand out in interviews and job applications. A collection of 71 Python projects with reference materials and source code gives you the chance to practice, solve real problems, and strengthen your development skills. Every completed project brings you one step closer to becoming a confident developer.
+
+Here is what you can gain from these projects.
+
+Hands on coding experience with real world applications
+
+Better problem solving and logical thinking skills
+
+A stronger portfolio to showcase during interviews
+
+Confidence in using Python for practical development
+
+This resource is perfect for students, freshers, software engineers, self learners, and career switchers who want to improve their coding skills and build projects that employers value. Whether you are preparing for placements or your next career opportunity, these projects can help you learn by doing.
+
+Do not wait until you feel ready. Start with one project today, stay consistent, and let every project become proof of your growth.
+
+Which Python project are you excited to build first?
+
+follow Chiranjivi Kumar
+
+
+
+-------------***************----------------
+-----------------------***************--------------
+React Interview Questions Every Developer Should Know!
+
+Preparing for React interviews can be the difference between missing an opportunity and landing your dream job. Whether you're a fresher starting your career, a student preparing for placements, or a working professional aiming for your next role, mastering React interview questions helps you build confidence and stand out in the hiring process.
+
+In this React Interview Questions PDF, you'll explore important concepts that recruiters frequently ask during technical interviews and assessments.
+
+Key takeaways:
+• Strengthen your understanding of React fundamentals and core concepts.
+• Prepare for commonly asked interview questions with confidence.
+• Improve problem-solving and technical communication skills.
+• Boost your readiness for internships, placements, and full-time roles.
+• Build a stronger foundation for modern front-end development.
+
+This resource is especially useful for freshers, software engineers, web developers, career switchers, and students looking to grow their skills in React and front-end technologies.
+
+Consistent learning and interview preparation can create new career opportunities and help you stay competitive in today's tech industry. The more you practice, the more confident you become.
+
+What is the most challenging React interview question you've faced? Share your experience in the comments below!
+
+👉 Follow for more and join the community for job & internship updates:https://lnkd.in/gN-9W32b
+
+
+
+
+-------------***************----------------
+-----------------------***************--------------
+99% of people use Claude like a chatbot.
+
+The top 1% use it like a personal AI operating system. 🤯
+
+This cheat sheet reveals 90 powerful Claude commands that can completely change how you write, code, research, analyze data, automate tasks, and solve problems.
+
+Once you start using these commands, you'll wonder why nobody taught you this earlier.
+
+🔥 But knowing AI isn't enough anymore—you need the right skills too.
+
+🚀 Here are the top 10 AI courses to get you massively ahead:
+
+1. AI Agent Developer Specialization
+https://lnkd.in/dp5pgAW6
+
+2. Prompt Engineering Specialization
+https://lnkd.in/dRs_q8hn
+
+3. Machine Learning Specialization
+https://lnkd.in/dyu5B34q
+
+4. Deep Learning Specialization
+https://lnkd.in/dENEX2FP
+
+5. Gen AI for Automation Specialization
+https://lnkd.in/d2_BWcfM
+
+6. Gen AI for Software Developers
+https://lnkd.in/dNm2MfE8
+
+7. Gen AI for Product Managers
+https://lnkd.in/dqaZP4be
+
+8. Gen AI for Business Consultants
+https://lnkd.in/dvTcTsDv
+
+9. Gen AI for Data Analysts
+https://lnkd.in/dhHjCvfE
+
+10. Gen AI for Data Scientists
+https://lnkd.in/dzFaYiYu
+
+🌟 Google Courses you'll regret not taking in 2026:
+
+1. Google Data Analytics
+🔹 https://lnkd.in/dTCQkBJD
+
+2. Google Project Management
+🔹 https://lnkd.in/d_M6JZ_v
+
+3. Foundations of Project Management
+🔹 https://lnkd.in/defkCPCa
+
+4. Google Introduction to Generative AI
+🔹 https://lnkd.in/djRTkaQX
+
+5. Google Cybersecurity
+🔹 https://lnkd.in/dg2qgnzU
+
+6. Google UX Design
+🔹 https://lnkd.in/dCrZe7DP
+
+7. Google Digital Marketing & E-commerce
+🔹 https://lnkd.in/dFn574PR
+
+8. Google IT Support
+🔹 https://lnkd.in/duzjG9uX
+
+📌 Save this post—you'll need these commands sooner than you think.
+
+Repost and Follow Shivanshu Pratap singh for more helpful AI insights.
+
+#AI #ClaudeAI #PromptEngineering #GenerativeAI #AITools #ArtificialIntelligence #MachineLearning #Productivity #CareerGrowth #GoogleCourses
+
+
+-------------------*************-------------
+-----------------------*************-------
+
+
+
+If you’re revising SQL the night before an interview,
+this might be exactly what you need.
+
+You may have optimized your code…
+but have you optimized your SQL preparation?
+
+Many developers and aspiring SDEs still treat SQL as
+“that topic I’ll skip till the end.”
+
+That approach doesn’t work anymore.
+
+Today, interviews do test SQL seriously — even for developer roles.
+
+𝗬𝗼𝘂’𝗿𝗲 𝗲𝘅𝗽𝗲𝗰𝘁𝗲𝗱 𝘁𝗼 𝗵𝗮𝗻𝗱𝗹𝗲:
+
+• Real-world SQL problem-solving
+• Query optimization concepts
+• Scenario-based database questions
+
+Because behind every application, every feature, every product —
+there is data.
+And SQL is how you communicate with it.
+
+That’s why I’m sharing a “Learn SQL in 22 Days” PDF —
+a structured, step-by-step learning roadmap from basics to advanced practice.
+
+𝗪𝗵𝘆 𝘁𝗵𝗶𝘀 𝗣𝗗𝗙 𝗶𝘀 𝗴𝗲𝗻𝘂𝗶𝗻𝗲𝗹𝘆 𝘂𝘀𝗲𝗳𝘂𝗹:
+
+✔ Day-wise learning plan with clear progression
+✔ Visual explanations & flowcharts for better clarity
+✔ Interview-focused SQL questions
+✔ Chapter-end practice & assessments
+✔ Scenario-based challenges + optimization tips
+
+It’s structured, visual, and hands-on —
+exactly what most of us wish we had when starting out with SQL.
+
+𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀.
+Avnish Kumar
+𝗖𝗼𝗺𝗺𝗲𝗻𝘁 "𝗦𝗤𝗟" 𝗮𝗻𝗱 𝗜’𝗹𝗹 𝗗𝗠 𝘆𝗼𝘂 𝘁𝗵𝗲 𝗣𝗗𝗙
+
+🔁 𝗥𝗲𝗽𝗼𝘀𝘁 𝘁𝗼 𝗵𝗲𝗹𝗽 𝗳𝗲𝗹𝗹𝗼𝘄 𝗷𝗼𝗯 𝘀𝗲𝗲𝗸𝗲𝗿𝘀 𝗽𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗶𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝘀.
+
+#SQLforDevs #PlacementPrep #LearnSQL #InterviewPrep #DataDriven #BackendBasics #SQLQueries #TechWithPractice #EngineeringLife
+
+
+
+

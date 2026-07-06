@@ -1,0 +1,48 @@
+snack.expo.dev/@aisssubhao2026/658c8b.
+
+
+
+
+It is actually a good thing that node_modules was removed before pushing!
+ You should never push node_modules to GitHub because it 
+ contains thousands of heavy files that Expo Snack will 
+ install automatically on its own servers anyway.
+ Here is exactly how to pull your GitHub code 
+ into your Snack link and test it.Step 1: 
+ Import Your GitHub Code into SnackOpen
+  your Snack link: snack.expo.dev/@aisssubhao2026/658c8b.On the left-side Project panel, 
+  click the three vertical 
+  dots menu icon (right next to the folder icons).
+  Click on Import Git Repository.
+  Paste your public 
+  GitHub URL: https://github.com/SubhajitC/EXPOSnackdevsops.gitType 
+  your branch name: EXPOClick Import. Snack will instantly 
+  pull your entire folder layout (src, components, screens, etc.) 
+  into the web editor.Step 2: Handle Missing DependenciesOnce your code loads, 
+  you will likely see red error screens on the virtual phone saying "Module not found".
+   Expo Snack reads your package.json file to install dependencies, 
+   but remember the roadblock we discussed earlier: 
+   Snack cannot compile certain native CLI packages.
+   To get the preview working on the Android or iOS tabs,
+    you must fix these packages inside the Snack web editor:
+    Package in your CodeWhat you must do in Expo Snackreact-native-fsRemove/Comment out.
+     It will crash Snack.
+      Use dummy mock data 
+      if you are reading/writing files.react-native-blob-utilRemove/Comment out.
+       Snack cannot parse 
+       native binary blobs via this tool.react-native-pdfComment out. 
+       The online iOS/Android simulators 
+       cannot compile the native PDF viewer engine.react-native-vector-iconsReplace 
+       imports. Change your icon imports to use @expo/vector-icons instead.Step 3: 
+       Run the SimulatorsOn the right side of your Expo Snack screen, 
+       look at the device panel:To test iOS: Click the iOS tab,
+        then click Tap to Play. Snack will put you
+         in a virtual queue and boot up an online 
+         iPhone preview stream using Appetize.io.To test Android: 
+         Click the Android tab, then click Tap to
+          Play to launch the virtual Android interface.💡 
+          Pro-Tip: If your UI logic gets completely stuck due 
+          to your React Native CLI configuration, the absolute 
+          fastest way to see it on a real phone without an 
+          iPhone is to look at the My Device tab on Snack, scan the QR code using 
+your actual Android phone's Expo Go app, and test the interface directly in your hand.
