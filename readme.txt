@@ -1,6 +1,6 @@
 npx expo start
 
-
+vv
 To run your Expo project on an Android Emulator, follow these steps to make sure your computer's virtual device is ready and connected to Expo:
 
 1. Set Up Android Studio & Emulator (First Time Only)
