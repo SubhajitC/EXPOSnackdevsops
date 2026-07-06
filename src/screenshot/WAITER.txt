@@ -1,0 +1,41 @@
+android ios problem facing whatis proble how to solve it web i am seeing android ios not seeing this
+
+You are actually so close! The code itself is working perfectly, which is why your layout renders beautifully on the Web tab in Screenshot 2026-030730.png.
+
+The problems you are facing on the Android and iOS tabs are not code bugs—they are configuration and queue issues on Expo Snack's side. Here is exactly what those messages mean and how to solve them:
+
+Problem 1: The iOS "All slots for this account are currently in use" Error
+In Screenshot 2026-030745.png, the iOS emulator is completely blocked. This happens because a free Expo account is only allowed to run one emulator stream at a time.
+
+The Cause: Your Android simulator tab is open or running a queue in the background under your account, which completely locks your iOS slot.
+
+How to fix it: 1. Click on the Android tab and hit the small "Stop" or disconnect icon to shut down the Android device completely.
+2. Refresh the browser page (F5).
+3. Go straight to the iOS tab first and click Tap to Play.
+
+Problem 2: The Android / iOS "Account-based queue" Number
+In Screenshot 2026-030720.png, you see the number 11 or 13. This is a waiting line (queue). Because millions of developers use Expo's free online servers, you have to wait for 11 other people's virtual sessions to finish before a virtual phone is given to you.
+
+How to fix it: Simply leave the tab open and wait for a couple of minutes. The numbers will count down (11... 10... 9...) until it reaches 0, and your app will instantly load.
+
+Problem 3: The Red Error Bar at the Bottom
+At the bottom of your screen, there is a red warning saying: 'react-redux' requires peer-dependency 'redux'.
+
+Even though it works on the Web view, the iOS and Android native simulators will crash unless you add this missing puzzle piece.
+
+Click on your package.json file inside your Expo Snack sidebar.
+
+Inside your "dependencies", add "redux": "^5.0.1". Your package block should look exactly like this:
+
+JSON
+  "dependencies": {
+    "expo": "~57.0.2",
+    "react": "19.2.3",
+    "react-native": "0.86.0",
+    "@reduxjs/toolkit": "^2.12.0",
+    "react-redux": "^9.3.0",
+    "redux": "^5.0.1", 
+    "axios": "^1.18.1",
+    "expo-status-bar": "~57.0.0"
+  }
+Once you add "redux", the red warning at the bottom will turn green. Let the queue countdown reach zero, and you'll see your app running smoothly on both platforms!
