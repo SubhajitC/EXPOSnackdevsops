@@ -1,6 +1,31 @@
 npx expo start
 
 vv
+
+-------***********-----------
+---------------*********-----
+Why did it break? A JSON file must start with { and end with }. 
+If you only pasted the "dependencies": { ... } 
+portion without wrapping it in the outer root brackets,
+ the Snack compiler reads it as broken code and freezes the line queue.
+
+Once the Red Bar Turns Green:
+Close the browser tabs showing the iOS and Android emulators 
+to completely clear your account slots.
+
+Re-open your link: snack.expo.dev/@aisssubhao2026/658c8b.
+
+Select one platform (either Android or iOS).
+
+The queue number should drop steadily down to 0 over a couple of minutes,
+ and your user layout will load seamlessly.
+
+
+
+
+
+
+
 To run your Expo project on an Android Emulator, follow these steps to make sure your computer's virtual device is ready and connected to Expo:
 
 1. Set Up Android Studio & Emulator (First Time Only)
