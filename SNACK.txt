@@ -1,0 +1,66 @@
+Ah, my mistake! Looking closely at this new screenshot
+ (Screenshot 2026-07-06 012017.png), I see that App.js, app.json, and package.json are already at the root level of your EXPOSNACKDEVSOPS folder.
+
+Since your files are already formatted correctly at the root level, the validation error from earlier (VALIDATION_ERROR) is likely caused by the extra text files (BIGGERRESOURCES2026.txt, CODEREVOLUTIONT.txt, JAVASCIPT2026.txt, etc.) or the hidden .claude and .expo folders sitting in your repository. Expo Snack's automatic importer gets confused when there are random .txt files or unrecognized config directories in the project root.
+
+Since your structure is completely correct, we can bypass the broken web importer entirely by using the official Expo Snack CLI tool to upload your project straight from your computer terminal.
+
+The Clean Solution: Upload Using Snack CLI
+Instead of dragging files through GitHub or copy-pasting, you can use the command line to push your exact local folder structure directly into your Snack link.
+
+1. Open your terminal inside your project folder
+Make sure you are at the root directory where App.js is located:
+
+Bash
+cd /f/RESUM2026/GOODRESOURCES2026/EXPOPROJECT/EXPOSnackdevsops
+2. Run the Snack Export Command
+Run this command to bundle and upload your exact directory structure straight to the Snack servers:
+
+Bash
+npx snack-cli export .
+3. Access Your Code
+The terminal will process your files, ignore the system trash, and output a brand new, private Snack URL directly in your console. Open that link in your browser, and your whole folder tree (src, assets, App.js) will be loaded instantly!
+
+One Final Check Before Running the Simulator
+Once you open the generated Snack link, click on package.json inside the Snack editor web interface and verify that it only contains the standard cross-platform libraries:
+
+JSON
+{
+  "dependencies": {
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.11.0",
+    "@reduxjs/toolkit": "^2.11.1",
+    "react-redux": "^9.2.0",
+    "axios": "^0.30.2"
+  }
+}
+If your native CLI packages (react-native-fs, react-native-pdf, etc.) are still listed there, delete those specific lines from the Snack's package.json so the online
+ iOS and Android engines don't crash when you hit "Tap to Play".
+
+
+
+ ----****----*****
+ npx snack-cli export .
+
+
+
+i dint have snack-cli
+
+hwo to install this
+
+Since npx snack-cli didn't execute right out of the box, we can install it directly onto your computer using npm.
+
+Open your MINGW64 terminal and run the following command to install the official Expo Snack command-line package globally:
+
+Bash
+npm install -g @krystofwoldrich/snack-cli
+Try exporting your project again
+Once the installation completes, make sure your terminal path is still inside your root EXPOSnackdevsops directory (where your App.js is located) and run the export command again:
+
+Bash
+npx snack-cli export .
+This will read your directory layout and give you a clean, active browser link to view your files on the online iOS and Android emulators.
+
+
+
+
