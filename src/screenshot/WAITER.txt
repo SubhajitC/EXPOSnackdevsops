@@ -1,3 +1,6 @@
+-----***-----
+https://appetize.io/apps
+
 android ios problem facing whatis proble how to solve it web i am seeing android ios not seeing this
 
 You are actually so close! The code itself is working perfectly, which is why your layout renders beautifully on the Web tab in Screenshot 2026-030730.png.
@@ -38,4 +41,6 @@ JSON
     "axios": "^1.18.1",
     "expo-status-bar": "~57.0.0"
   }
-Once you add "redux", the red warning at the bottom will turn green. Let the queue countdown reach zero, and you'll see your app running smoothly on both platforms!
+Once you add "redux", the red warning at the bottom will turn green. 
+Let the queue countdown reach zero,
+ and you'll see your app running smoothly on both platforms!
